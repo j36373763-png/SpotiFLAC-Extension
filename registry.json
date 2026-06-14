@@ -137,7 +137,7 @@
       "id": "qobuz-web",
       "name": "qobuz-web",
       "display_name": "Qobuz",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "Qobuz metadata and download provider for SpotiFLAC Mobile.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/qobuz-web.spotiflac-ext",
       "category": "download",
